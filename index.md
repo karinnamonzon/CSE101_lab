@@ -4,11 +4,13 @@ I am a student in CSE 110 with Professor Powell.
 
 ## My favorite things
 This is my favorite [song](https://www.youtube.com/watch?v=dQw4w9WgXcQ). I think it is a classic.\
-I like to play the drums.
+I like to play the drums ~~and Guitar Hero~~.
 My favorite video game is Helldivers 2.
 ![Helldivers 2](https://static.wikia.nocookie.net/sony-playstation/images/d/da/Helldivers_2_cover_art.png/revision/latest?cb=20230922132050)
 
-#Bring back to README.md
+My favorite superhero quote:
+> I'm Batman\
+> \- Batman
 
 ## Fun code
 This is a code in Java that prints out a heart.
