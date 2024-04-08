@@ -8,7 +8,7 @@ I am a student in CSE 110 with Professor Powell.
 This is my favorite [song](https://www.youtube.com/watch?v=dQw4w9WgXcQ). I think it is a classic.\
 I like to play the drums ~~and Guitar Hero~~.
 My favorite video game is ***Helldivers 2***.
-![Helldivers 2](https://cdn.mos.cms.futurecdn.net/JFLq9X6eTGShSJV9UZw2t9-650-80.jpg.webp)
+![Helldivers 2](https://github.com/karinnamonzon/CSE101_lab/blob/2475fa54d124e7fcaa3d99a1a269a24a12910ac2/helldivers2.webp)
 
 ### My favorite superhero quote:
 > I'm Batman\
